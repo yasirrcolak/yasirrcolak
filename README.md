@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasir</h1>
 <h3 align="center">Computer Engineering Student At Selcuk University</h3>
 
-- 🔭 I’m currently working on <a href="https://www.isargames.com" target="blank">ISAR Software</a>
+- 🔭 I’m currently working on <a href="https://www.isargames.com" target="_blank">ISAR Software</a>
 
 - 📫 How to reach me **muhammetyasircolak@gmail.com**
 
